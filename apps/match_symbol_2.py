@@ -6,7 +6,7 @@
 @Version :   1.0
 @Desc    :   None
 '''
-from pythonds.baisc import Stack
+from pythonds.basic import Stack
 
 
 def parChecker(symbolString):

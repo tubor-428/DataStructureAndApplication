@@ -7,7 +7,7 @@
 @Desc    :   None
 '''
 
-from pythonds.baisc import Stack
+from pythonds.basic import Stack
 
 
 def parChecker(symbolString):
